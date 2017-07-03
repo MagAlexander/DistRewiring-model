@@ -4,4 +4,4 @@ This repository contains the code that supports "Distributed rewiring model for 
 
 All information needed to use the code are inside "DistRewiringSim-v1.0.zip" file.
 
-The data that supports the file are in the UAM Institutional repository: http://tlapiacalli.izt.uam.mx/xmlui/handle/123456789/88
+The data that supports the file are in the UAM Institutional public repository: http://tlapiacalli.izt.uam.mx/xmlui/handle/123456789/88
